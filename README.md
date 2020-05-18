@@ -4,4 +4,4 @@ In this project we created Digital Alarm Clock. The clock has three modes like C
 
 # The circuit scheme is shown below
 
-<img src="https://github.com/okhakimjanov/avrdigitalclock/blob/master/scheme.png?raw=true" width="1024">
+<img src="https://github.com/okhakimjanov/avrdigitalclock/blob/master/scheme.png?raw=true">
